@@ -20,7 +20,7 @@ function solution(n) {
       result += 1;
     }
   }
-  console.log(result);
+  return result;
 }
 
 console.log(solution("(((()(()()))(())()))(()())"));
